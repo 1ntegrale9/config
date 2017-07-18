@@ -19,6 +19,7 @@ alias gps='git push origin'
 alias gr='git reset'
 alias grh='git reset HEAD~'
 alias gs='git status'
+alias gcwip='git commit --allow-empty -m "WIP PR"'
 
 alias resh='exec $SHELL -l'
 
