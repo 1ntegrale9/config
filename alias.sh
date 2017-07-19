@@ -14,8 +14,8 @@ alias gcwip='git commit --allow-empty -m "WIP PR"'
 
 alias resh='exec $SHELL -l'
 alias setup='source setup.sh'
-alias stppt='source short-prompt.sh'
-alias lgppt='source long-prompt.sh'
+alias stppt='source ~/github/config/short-prompt.sh'
+alias lgppt='source ~/github/config/long-prompt.sh'
 
 alias vbp='vim ~/.bash_profile'
 alias vbr='vim ~/.bashrc'
