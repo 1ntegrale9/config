@@ -6,7 +6,7 @@ GIT_PS1_SHOWUPSTREAM=true
 GIT_PS1_SHOWUNTRACKEDFILES=true
 GIT_PS1_SHOWSTASHSTATE=true
 
-source long-prompt.sh
+source ~/github/config/long-prompt.sh
 
 alias ga='git add .'
 alias gb='git branch'
