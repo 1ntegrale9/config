@@ -20,4 +20,3 @@ alias lgppt='source ~/github/config/long-prompt.sh'
 alias vbp='vim ~/.bash_profile'
 alias vbr='vim ~/.bashrc'
 alias vvr='vim ~/.vimrc'
-
