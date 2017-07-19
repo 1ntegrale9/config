@@ -13,7 +13,7 @@ alias gs='git status'
 alias gcwip='git commit --allow-empty -m "WIP PR"'
 
 alias resh='exec $SHELL -l'
-alias setup='source setup.sh'
+alias setup='source ~/github/config/setup.sh'
 alias stppt='source ~/github/config/short-prompt.sh'
 alias lgppt='source ~/github/config/long-prompt.sh'
 
