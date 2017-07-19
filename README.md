@@ -2,16 +2,10 @@
 
 共通の設定ファイルを管理する。
 
-## .bashrc
+## bashrc
 
-bashrcの設定ファイル。
-git管理用に
-
-- .git-completion.bash
-- .git-prompt.sh
-
-を呼び出して使用している。
-設定を適用させるには、~/.bashrcを書き換える必要がある。
+`source setup.sh`で`~/.bashrc`を上書きする。
+alias反映後は`setup`で可。
 
 ## schedule
 - vimrc
