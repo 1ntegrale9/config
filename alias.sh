@@ -20,6 +20,7 @@ alias grl='git reflog'
 alias gs='git status'
 alias gsh='git stash'
 alias gshd='git stash drop'
+alias gshl='git stash list'
 alias gshp='git stash pop'
 alias gcwip='git commit --allow-empty -m "WIP PR"'
 
