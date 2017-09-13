@@ -19,6 +19,8 @@ alias grc='git rebase --continue'
 alias grl='git reflog'
 alias gs='git status'
 alias gsh='git stash'
+alias gshd='git stash drop'
+alias gshp='git stash pop'
 alias gcwip='git commit --allow-empty -m "WIP PR"'
 
 alias gphm='git push heroku master'
