@@ -39,7 +39,12 @@ alias vbp='vim ~/.bash_profile'
 alias vbr='vim ~/.bashrc'
 alias vvr='vim ~/.vimrc'
 
+alias cdd='cd ..'
 alias cdgh='cd ~/github/'
+alias cdcg='cd ~/github/config/'
+alias cdah='cd ~/github/arcadia19th/'
+alias cdpt='cd ~/github/python/'
+alias cdud='cd ~/github/Unorganized/'
 
 alias resh='exec $SHELL -l'
 
