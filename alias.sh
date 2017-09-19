@@ -30,6 +30,7 @@ alias hr='heroku run'
 alias pmr='python3 manage.py runserver'
 alias pmm='python3 manage.py migrate'
 alias pmmm='python3 manage.py makemigrations'
+alias pmcs='python3 manage.py createsuperuser'
 
 alias setup='source ~/github/config/setup.sh'
 alias stppt='source ~/github/config/short-prompt.sh'
