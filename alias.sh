@@ -28,6 +28,7 @@ alias gcwip='git commit --allow-empty -m "WIP PR"'
 
 alias gphm='git push heroku master'
 alias hr='heroku run'
+alias hrpmm'heroku run python3 manage.py migrate'
 
 alias dasp='django-admin startproject'
 alias pms='python3 manage.py startapp'
