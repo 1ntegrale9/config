@@ -6,6 +6,6 @@ GIT_PS1_SHOWUPSTREAM=true
 GIT_PS1_SHOWUNTRACKEDFILES=true
 GIT_PS1_SHOWSTASHSTATE=true
 
-source ~/github/config/long-prompt.sh
+source ~/github/config/short-prompt.sh
 source ~/github/config/alias.sh
 
