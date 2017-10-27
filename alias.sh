@@ -54,3 +54,5 @@ alias cdud='cd ~/github/Unorganized/'
 
 alias resh='exec $SHELL -l'
 
+alias delds='find . -name ".DS_Store" -type f -ls -delete'
+
