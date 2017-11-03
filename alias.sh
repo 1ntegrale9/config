@@ -1,6 +1,7 @@
 alias ll='ls -l'
 alias la='ls -a'
 alias lg='ls -G'
+alias lal='ls -a -l'
 
 alias ga='git add .'
 alias gb='git branch'
