@@ -18,6 +18,7 @@ alias gpom='git push origin master'
 alias gr='git reset'
 alias grh='git reset HEAD~'
 alias gri='git rebase -i'
+alias grir='git rebase -i --root'
 alias grc='git rebase --continue'
 alias grl='git reflog'
 alias gs='git status'
@@ -54,4 +55,6 @@ alias cdpt='cd ~/github/python/'
 alias cdud='cd ~/github/Unorganized/'
 
 alias resh='exec $SHELL -l'
+
+alias delds='find . -name ".DS_Store" -type f -ls -delete'
 
