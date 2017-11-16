@@ -42,6 +42,8 @@ alias pmcs='python3 manage.py createsuperuser'
 alias setup='source ~/github/config/setup.sh'
 alias stppt='source ~/github/config/short-prompt.sh'
 alias lgppt='source ~/github/config/long-prompt.sh'
+alias hidef='source ~/github/config/hide.sh'
+alias showf='source ~/github/config/show.sh'
 
 alias vbp='vim ~/.bash_profile'
 alias vbr='vim ~/.bashrc'
