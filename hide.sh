@@ -1,3 +1,3 @@
-defaults write com.apple.finder AppleShowAllFiles -boolean true
+defaults delete com.apple.finder AppleShowAllFiles
 killall Finder
 
