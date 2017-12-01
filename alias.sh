@@ -40,6 +40,7 @@ alias pmmm='python3 manage.py makemigrations'
 alias pmcs='python3 manage.py createsuperuser'
 
 alias setup='source ~/github/config/setup.sh'
+alias spppt='source ~/github/config/simple-prompt.sh'
 alias stppt='source ~/github/config/short-prompt.sh'
 alias lgppt='source ~/github/config/long-prompt.sh'
 alias hidef='source ~/github/config/hide.sh'
