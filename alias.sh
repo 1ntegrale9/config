@@ -68,3 +68,7 @@ alias resh='exec $SHELL -l'
 
 alias delds='find . -name ".DS_Store" -type f -ls -delete'
 
+alias sktr='ssh-keygen -t rsa'
+alias skp='ssh-keygen -p'
+alias psirp='pbcopy < ~/.ssh/id_rsa.pub'
+
