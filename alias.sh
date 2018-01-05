@@ -47,6 +47,7 @@ alias p3u='pip3 uninstall'
 alias p3iu='pip3 install --upgrade'
 
 alias setup='source ~/github/config/setup.sh'
+alias spdt='source ~/github/config/prompt-default.sh'
 alias sppt='source ~/github/config/prompt-simple.sh'
 alias stpt='source ~/github/config/prompt-short.sh'
 alias lgpt='source ~/github/config/prompt-long.sh'
