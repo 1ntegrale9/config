@@ -9,3 +9,5 @@ GIT_PS1_SHOWSTASHSTATE=true
 source ~/github/config/prompt-default.sh
 source ~/github/config/alias.sh
 
+export LANG=ja_JP.UTF-8
+
