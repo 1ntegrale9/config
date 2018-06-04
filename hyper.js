@@ -36,12 +36,7 @@ module.exports = {
     env: {},
     bell: 'SOUND',
     copyOnSelect: false,
-    pokemon: 'random', // Define your favorite pokemon theme
-    pokecursor: 'true', // Activate your theme's pokecursor
-    pokemonSyntax: 'dark', // Define the color of the terminal tabs
-    unibody: 'false', // Define the color of the Hyper window header
-    poketab: 'true', // Deactivate your theme's poketab
   },
-  plugins: ['hyper-pokemon'],
+  plugins: [],
   localPlugins: []
 };
