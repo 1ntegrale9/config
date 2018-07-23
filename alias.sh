@@ -1,3 +1,8 @@
+function cdls() {
+  \cd $1;
+  ls;
+}
+
 alias ll='ls -l'
 alias la='ls -a'
 alias lg='ls -G'
@@ -60,8 +65,10 @@ alias vbp='vim ~/.bash_profile'
 alias vbr='vim ~/.bashrc'
 alias vvr='vim ~/.vimrc'
 
+alias cd='cdls'
 alias cdd='cd ..'
 alias cdgh='cd ~/github/'
+alias cdgl='cd ~/gitlab/'
 alias cdcg='cd ~/github/config/'
 alias cdah='cd ~/github/arcadia19th/'
 alias cdpt='cd ~/github/python/'
