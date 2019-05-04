@@ -53,6 +53,7 @@ alias p3i='pip3 install'
 alias p3u='pip3 uninstall'
 alias p3iu='pip3 install --upgrade'
 alias prp='pipenv run python'
+alias python='python3'
 
 alias setup='source ~/github/config/setup.sh'
 alias spdt='source ~/github/config/prompt-default.sh'
