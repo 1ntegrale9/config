@@ -1,5 +1,5 @@
 source ~/github/config/git-completion.bash
-source ~/github/config/git-prompt.sh
+source ~/github/config//git-prompt.sh
 
 GIT_PS1_SHOWDIRTYSTATE=true
 GIT_PS1_SHOWUPSTREAM=true
