@@ -35,6 +35,7 @@ alias gshd='git stash drop'
 alias gshl='git stash list'
 alias gshp='git stash pop'
 alias gcwip='git commit --allow-empty -m "WIP PR"'
+alias gcxdf='git clean -xdf'
 
 alias gphm='git push heroku master'
 alias hr='heroku run'
