@@ -72,8 +72,8 @@ alias vvr='vim ~/.vimrc'
 
 alias cd='cdls'
 alias cdd='cd ..'
+alias g='cd ~/github/'
 alias cc='cd ~/github/config/'
-alias cg='cd ~/github/'
 
 alias resh='exec $SHELL -l'
 
