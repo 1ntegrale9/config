@@ -71,10 +71,9 @@ alias vbr='vim ~/.bashrc'
 alias vvr='vim ~/.vimrc'
 
 alias cd='cdls'
-alias cdcg='cd ~/github/config/'
 alias cdd='cd ..'
-alias cdgh='cd ~/github/'
-alias cdpt='cd ~/github/python/'
+alias cc='cd ~/github/config/'
+alias cg='cd ~/github/'
 
 alias resh='exec $SHELL -l'
 
