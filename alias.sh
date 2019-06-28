@@ -1,12 +1,12 @@
 function cdls() {
   \cd $1;
-  ls;
+  ls -G;
 }
 
+alias l='ls -aG'
+alias ls='ls -G'
 alias la='ls -a'
-alias lal='ls -a -l'
-alias lg='ls -G'
-alias ll='ls -l'
+alias ll='ls -laG'
 
 alias ga='git add .'
 alias gb='git branch'
