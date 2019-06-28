@@ -59,6 +59,9 @@ alias pmr='python3 manage.py runserver'
 alias pms='python3 manage.py startapp'
 
 alias dc='docker-compose'
+alias dcu='docker-compose up -d'
+alias dcd='docker-compose down'
+alias dcb='docker-compose build'
 
 alias hidef='source ~/github/config/hide.sh'
 alias lgpt='source ~/github/config/prompt-long.sh'
