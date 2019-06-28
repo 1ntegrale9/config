@@ -58,6 +58,7 @@ alias pmmm='python3 manage.py makemigrations'
 alias pmr='python3 manage.py runserver'
 alias pms='python3 manage.py startapp'
 
+alias dps='docker ps'
 alias dc='docker-compose'
 alias dcu='docker-compose up -d'
 alias dcd='docker-compose down'
