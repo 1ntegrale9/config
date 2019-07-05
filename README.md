@@ -1,12 +1,8 @@
 # config
 
-共通の設定ファイルを管理する。
+共通の設定ファイルを管理している
 
 ## bashrc
 
-`source setup.sh`で`~/.bashrc`を上書きする。
+`source setup.sh`で各種ファイルを上書きする。  
 alias反映後は`setup`で可。
-
-## schedule
-- vimrc
-- sublimetext
