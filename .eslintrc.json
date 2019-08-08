@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "es5"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:compat/recommended",
+    "plugin:es5/no-es2015"
+  ],
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "compat/compat": "error",
+    "es5/no-arrow-functions": "error",
+    "no-undef": 0
+  }
+}

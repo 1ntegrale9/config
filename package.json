@@ -1,0 +1,30 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "config files",
+  "main": "hyper.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-compat": "^3.3.0",
+    "eslint-plugin-es5": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ntegrale9/config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ntegrale9/config/issues"
+  },
+  "homepage": "https://github.com/1ntegrale9/config#readme",
+  "browserslist": [
+    "last 1 versions",
+    "not ie <= 10"
+  ]
+}
