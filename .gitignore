@@ -86,3 +86,8 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# https://github.com/github/gitignore/blob/master/Composer.gitignore
+composer.lock
+composer.phar
+/vendor/
