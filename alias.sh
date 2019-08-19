@@ -58,7 +58,7 @@ alias pmmm='python3 manage.py makemigrations'
 alias pmr='python3 manage.py runserver'
 alias pms='python3 manage.py startapp'
 
-alias phpdoc='php vendor/bin/phpdoc'
+alias phpdoc='php vendor/bin/phpDocumentor.phar'
 
 alias docker-n='docker stop $(docker ps -q); docker rm $(docker ps -q -a); docker rmi $(docker images -q)'
 alias dps='docker ps'
