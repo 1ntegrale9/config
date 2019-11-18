@@ -50,7 +50,6 @@ alias p3ir='pip3 install -r requirements.txt'
 alias p3iu='pip3 install --upgrade'
 alias p3u='pip3 uninstall'
 alias prp='pipenv run python'
-alias python='python3'
 
 alias dasp='django-admin startproject'
 alias pmcs='python3 manage.py createsuperuser'
