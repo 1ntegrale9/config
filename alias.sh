@@ -70,6 +70,7 @@ alias dc='docker-compose'
 alias dcu='docker-compose up -d'
 alias dcd='docker-compose down'
 alias dcb='docker-compose build'
+alias dce='docker-compose exec'
 
 alias setup='source ~/github/config/setup.sh'
 alias fs='source ~/github/config/show.sh'
