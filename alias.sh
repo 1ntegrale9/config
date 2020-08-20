@@ -67,7 +67,7 @@ alias pms='python3 manage.py startapp'
 alias phpdoc='php vendor/bin/phpDocumentor.phar'
 
 #alias docker-n='docker stop $(docker ps -q); docker rm $(docker ps -q -a); docker rmi $(docker images -q)'
-alias docker-n='docker system prune'
+alias docker-n='docker container prune;docker image prune;docker volume prune;docker system prune'
 alias dps='docker ps'
 alias dpsa='docker ps -a'
 alias dpsaq='docker ps -a -q'
