@@ -80,6 +80,8 @@ alias dcd='docker-compose down'
 alias dcb='docker-compose build'
 alias dcbnc='docker-compose build --no-cache'
 alias dce='docker-compose exec'
+alias dcl='docker-compose logs'
+alias dclf='docker-compose logs -f'
 
 alias setup='source ~/github/config/setup.sh'
 alias fs='source ~/github/config/show.sh'
